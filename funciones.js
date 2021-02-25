@@ -1,3 +1,3 @@
-mifuncion function(){
+function mifuncion(){
     return 0;
 };
