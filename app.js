@@ -1,0 +1,1 @@
+let fs = requiere('fs');
